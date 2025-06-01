@@ -1,0 +1,21 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+.profile-img {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+.social-links a {
+  color: #1e90ff;
+  text-decoration: none;
+  margin: 0 10px;
+}
